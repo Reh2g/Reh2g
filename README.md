@@ -18,4 +18,4 @@
 
 <!--   GitHub stats graph -->
 ### 📈 Gráfico de Atividades:
-![Reh2g's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Reh2g&hide_border=true&theme=nord)
+![Reh2g's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Reh2g&hide_border=true&theme=ocean_dark)
