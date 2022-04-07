@@ -1,8 +1,5 @@
 ## **Olá, sou o Gabriel Missima 👋**
 
-* `👨‍💻 Estudante de Ciência da Computação no Centro Universitário FEI`
-
-
 <div align="center">
   <a href="https://github.com/Reh2g">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Reh2g&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
