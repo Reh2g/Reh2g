@@ -1,4 +1,4 @@
-## **Olá, meu nome é Gabriel Missima, seja bem vindo(a) ao meu GitHub 👋**
+## **Olá, meu nome é Gabriel Missima, seja bem vindo/bem vinda ao meu GitHub 👋**
 
 <div align="center">
   <a href="https://github.com/Reh2g">
