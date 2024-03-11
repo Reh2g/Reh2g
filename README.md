@@ -1,6 +1,6 @@
-## **Olá, meu nome é Gabriel Missima, seja bem vindo ao meu GitHub 👋**
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6D7E89&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6D7E89&size=35&center=true&vCenter=true&width=1000&lines=HELLO!+My+name+is+Gabriel+Nunes+Missima;I'm+from+Brazil;Currently+Studying+Computer+Science+at+FEI;+:%29)](https://git.io/typing-svg)
+## **Olá, meu nome é Gabriel Missima, seja bem vindo ao meu GitHub 👋**
 
 [![Reh2g's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Reh2g&bg_color=0d1117&color=6D7E89&line=73EFF5&point=54A5AB&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
