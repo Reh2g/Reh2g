@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6D7E89&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=85FF00&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF4E01&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Gabriel+Nunes+Missima;estudo+Ciência+da+Computação+na+FEI;seja+bem+vindo+ao+meu+GitHub;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6D7E89&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Gabriel+Nunes+Missima;estudo+Ciência+da+Computação+na+FEI;seja+bem+vindo+ao+meu+GitHub;+:%29)](https://git.io/typing-svg)
 
 [![Reh2g's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Reh2g&bg_color=020003&color=F3F6FB&line=563474&point=85FF00&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
