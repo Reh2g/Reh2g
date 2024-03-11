@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6D7E89&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F3F6FB&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F3F6FB&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Gabriel+Nunes+Missima;estudo+Ciência+da+Computação+na+FEI;seja+bem+vindo+ao+meu+GitHub!;+:%29)](https://git.io/typing-svg)
 
