@@ -5,6 +5,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Reh2g&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
 <br>
 
+[![Reh2g's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Reh2g&bg_color=0d1117&color=BFF5F5&line=73EFF5&point=54A5AB&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Reh2g&show_icons=true&count_private=true&hide_border=true&title_color=BFF5F5&icon_color=73EFF5&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Missima github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reh2g&layout=compact&hide_border=true&title_color=BFF5F5&text_color=73EFF5&bg_color=0d1117" />
