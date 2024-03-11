@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6D7E89&height=120&section=header"/>
 
-## **Olá, meu nome é Gabriel Missima, seja bem vindo ao meu GitHub 👋**
+<div align="center">
+  ## **Olá, meu nome é Gabriel Missima, seja bem vindo ao meu GitHub 👋**
+<br>
 
 [![Reh2g's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Reh2g&bg_color=020003&color=F3F6FB&line=563474&point=85FF00&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
