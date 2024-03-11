@@ -2,7 +2,7 @@
 
 ## **Olá, meu nome é Gabriel Missima, seja bem vindo ao meu GitHub 👋**
 
-[![Reh2g's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Reh2g&bg_color=6D7E89&color=85FF00&line=563474&point=85FF00&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Reh2g's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Reh2g&bg_color=020003&color=F3F6FB&line=563474&point=85FF00&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   <a href="https://github.com/Reh2g">
