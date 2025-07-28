@@ -8,8 +8,8 @@
 <p>
 
 - 🎓 I'm graduate at <b>Computer Science</b> by <b>Centro Universitário FEI</b>;
+- 🤖 I'm learning <b>Artificial Intelligence</b>;
 - 🌎 I speak <b>English</b> and <b>Portuguese</b>;
-- 🤖 I love <b>Artificial Intelligence</b>;
 - 🎨 I do like to make things pretty;
 - 🧃 ,,_a verdadeira arte é só um reflexo dos sentimentos de quem a contempla_’’.
 
