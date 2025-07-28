@@ -11,7 +11,7 @@
 - 🌎 I speak <b>English</b> and <b>Portuguese</b>;
 - 🤖 I love <b>Artificial Intelligence</b>;
 - 🎨 I do like to make things pretty;
-- 🧃 ,,_a verdadeira arte é só um reflexo dos sentimentos de quem a contempla_’’
+- 🧃 ,,_a verdadeira arte é só um reflexo dos sentimentos de quem a contempla_’’.
 
 <div>
   <a href="https://www.linkedin.com/in/gabrielmissima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
