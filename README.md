@@ -1,18 +1,36 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F3F6FB&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6D7E89&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Seja+bem+vindo(a)+ao+meu+GitHub;meu+nome+é+Gabriel+Nunes+Missima;estudo+Ciência+da+Computação+na+FEI;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6D7E89&size=30&center=true&vCenter=true&width=1000&lines=HELLO+THERE!+Welcome+to+my+GitHub;My+name+is+Gabriel+Nunes+Missima;Please,+make+yourself+home;:%29)](https://git.io/typing-svg)
 
-[![Reh2g's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Reh2g&bg_color=020003&color=F3F6FB&line=563474&point=85FF00&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### _ABOUT ME_
 
-<div align="center">
-  <a href="https://github.com/Reh2g">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Reh2g&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-<br>
+<img src="https://media3.giphy.com/media/BWvUXvqEZgIWxIfQvN/giphy.gif" min-width="300px" max-width="300px" width="300px" align="right"/>
+<p>
 
-<img align="center" alt="Ma-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img align="center" alt="Ma-HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">|<img align="center" alt="Ma-CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">|<img align="center" alt="C" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />|<img align="center" alt="Cplusplus" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />|<img align="center" alt="Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-|--|--|--|--|--|--|--|
+- 🎓 I'm graduate at <b>Computer Science</b> by <b>Centro Universitário FEI</b>;
+- 🌎 I speak <b>English</b> and <b>Portuguese</b>;
+- 🤖 I love <b>Artificial Intelligence</b>;
+- 🎨 I do like to make things pretty;
+- 🧃 ,,_a verdadeira arte é só um reflexo dos sentimentos de quem a contempla_’’
 
 <div>
+  <a href="https://www.linkedin.com/in/gabrielmissima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/suquinhu1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gnmissima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:gnmissima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+### _TOOLKIT_
+#### Programming Languages:
+![Python](https://img.shields.io/badge/python-%23ffffff.svg?style=for-the-badge&logo=python&logoColor=3775A9) ![C](https://img.shields.io/badge/c-5C6BC0.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-D94FA5.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-865DBD.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-F06529.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-264DE4.svg?style=for-the-badge&logo=css3&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+#### Software Frameworks:
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F8AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white)
+
+#### Utility Softwares:
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Paint.net](https://img.shields.io/badge/paint.net-%23ffffff.svg?style=for-the-badge&logo=paint&logoColor=black) ![Filmora](https://img.shields.io/badge/filmora-1E3B50.svg?style=for-the-badge&logo=paint&logoColor=white)
+
+#### Libraries:
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+#### Operational Systems:
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
