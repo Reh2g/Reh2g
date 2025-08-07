@@ -7,8 +7,8 @@
 <img src="https://media3.giphy.com/media/BWvUXvqEZgIWxIfQvN/giphy.gif" min-width="300px" max-width="300px" width="300px" align="right"/>
 <p>
 
-- 🎓 I hold a Bachelor's degree in <b>Computer Science</b> from <b>Centro Universitário FEI</b>;
 - 🤖 I'm passionate about developing <b>Artificial Intelligence</b> solutions;
+- 🎓 I hold a Bachelor's degree in <b>Computer Science</b> from [<b>Centro Universitário FEI</b>](https://portal.fei.edu.br/);
 - 🌎 I speak <b>English</b> and <b>Portuguese</b>;
 - 🎨 I obsess over clean, visually impactful design;
 - 🧃 ,,_a verdadeira arte é só um reflexo dos sentimentos de quem a contempla_’’.
